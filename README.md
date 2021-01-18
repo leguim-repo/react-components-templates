@@ -2,4 +2,5 @@
 My usually components templates for react
 
 ---
-![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
+<!-- Pit i Collons -->
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
